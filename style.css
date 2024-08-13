@@ -1,0 +1,11 @@
+.botoes {
+    display: block;
+}
+
+.aba-conteudo.ativo{
+    display: block;   
+}
+
+.aba-conteudo{
+    display: none;
+}
